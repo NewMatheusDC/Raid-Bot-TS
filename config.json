@@ -5,7 +5,7 @@
     },
     "basic": {
         "prefix": "BOT_PREFIX",
-        "token": "BOT_TOKEN"
+        "token": "BOT_TOKE"
     },
     "--2-Comments": {
         "arabic":"هنا يجب عليك وضع ID الاشخاص الذين يمكنهم استخدام اوامر البوت ",
